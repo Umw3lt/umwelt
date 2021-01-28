@@ -9,19 +9,17 @@ Not a ‘VR’ project, but a project to put VR in the right relation to other m
 <br/>
 </center>
 
-<br/><br/>
-
-<center>
-<img src='astronomers_umwelt.uexkull.png'><br/>
-<span style="font-size: small;"><em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934</span> 
-</center>
-
 <br/>
 
-**Umwelt**: 
+<img src='astronomers_umwelt.uexkull.png'><br/>
+ 
 <ul>
-  <li> (in <a href="https://en.wikipedia.org/wiki/Ethology">ethology</a>,) the world as it is experienced by a particular organism. 
-  <li> <em>The worlds they perceive, their Umwelten, are all different.</em>
+  <li> <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
+  <li> <strong>Umwelt</strong>:
+  <ul>
+  <li> (in <a href="https://en.wikipedia.org/wiki/Ethology">ethology</a>) the world as it is experienced by a particular organism 
+  <li> <em>The worlds they perceive, their Umwelten, are all different</em>
+</ul>
 </ul>
 <br/>
 <br/>
