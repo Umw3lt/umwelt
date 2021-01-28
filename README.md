@@ -15,6 +15,8 @@ Not a ‘VR’ project, but a project to put VR in the right relation to other m
   <li> <em>The worlds they perceive, their Umwelten, are all different</em>
 </ul>
 </ul>
+
+<br/>
 <br/>
 image: <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
 <br/>
