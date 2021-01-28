@@ -8,6 +8,7 @@ Umwelt is a ladder of scientific communications, including VR and AR, for highly
 Not a ‘VR’ project, but a project to put VR in the right relation to other modes of communication and collegiality
 </em>
 <br/>
+<br/>
 <ul>
   <li> <strong>Umwelt</strong>:
   <ul>
@@ -19,7 +20,6 @@ Not a ‘VR’ project, but a project to put VR in the right relation to other m
 <br/>
 <br/>
 image: <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
-<br/>
 <br/>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> <br />
