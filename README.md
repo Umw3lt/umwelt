@@ -1,5 +1,5 @@
 
-<img src='astronomers_umwelt.uexkull.png'><br/>
+<img src='images/umwelt_logo2.png'><br/>
 
 <h1>Umwelt</h1>
 <em style="font-size: large; position: relative; top: -20px;">
@@ -18,6 +18,7 @@ Not a ‘VR’ project, but a project to put VR in the right relation to other m
 </ul>
 
 <br/>
+<img src='images/astronomers_umwelt.uexkull.png'>
 <br/>
 image: <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
 <br/>
