@@ -25,7 +25,7 @@
 image: <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
 <br/>
 
-    <p>Cognitive science shows us that our current systems of algorithmically-driven networked communications have trapped us in a false reality. </p>
+<p>Cognitive science shows us that our current systems of algorithmically-driven networked communications have trapped us in a false reality. </p>
 
 <p>Algorithmics has led to an emergent effect, where each action by each organisation driven by or exploiting a human cognitive bias (175 of which are currently identified) synergises with all similar such actions, completely enclosing human societies within a severaly distorted perceptual landscape. </p>
 
