@@ -19,11 +19,11 @@
   </ul>
 </ul>
     
-<br/>
+<p>
 <img src='images/astronomers_umwelt.uexkull.png'>
 <br/>
 image: <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
-<br/>
+</p>
 
 <p>Cognitive science shows us that our current systems of algorithmically-driven networked communications have trapped us in a false reality. </p>
 
