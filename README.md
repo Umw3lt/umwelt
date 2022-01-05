@@ -49,7 +49,7 @@ image: <em>Uexküll, Thure v.,</em> The Umwelt of an astronomer, 1934
 
 <p>Note that this is not a &#8216;VR&#8217; project. The VR, AR, and XR we are focused on are the ones generated inside your brain.</p>
 
-<p>So far, Umwelt has hosted 3 events for international scientific communities, serving ~200 researchers in total.</p>
+<p>So far, Umwelt has hosted 3 events for international scientific communities (2020 - 21), serving ~200 researchers in total.</p>
     
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> <br />
 
